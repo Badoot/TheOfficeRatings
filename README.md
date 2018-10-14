@@ -3,7 +3,7 @@ Plotting viewer ratings for all 9 seasons of The Office (US)
 
 Learning Python and Matplotlib by trying to replicate the ratings graphic on the bottom of the Wikipedia page here:
 
-https://upload.wikimedia.org/wikipedia/en/timeline/88c7203e1b53a68cbf59cdff4f65c8eb.png
+![The Office (US) Ratings](https://upload.wikimedia.org/wikipedia/en/timeline/88c7203e1b53a68cbf59cdff4f65c8eb.png)
 
 Running 'theoffice.py' will:
 
